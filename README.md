@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-mailto:olcaysoezen@gmail.com
+<olcaysoezen@gmail.com>
 
 <!--
 **Olcay91/Olcay91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
