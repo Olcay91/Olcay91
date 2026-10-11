@@ -1,4 +1,4 @@
-<p style="text-align:center;">Hi, I'm Olcay 👋</p>
+<h2 style="text-align:center;">Hi, I'm Olcay 👋</h2>
 
 <!--
 **Olcay91/Olcay91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
